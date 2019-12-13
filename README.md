@@ -6,13 +6,15 @@ Backing up Apple's Photos Library is suboptimal. At the moment, the only way to 
 
 # The Dream
 
-Filename: "IMG-0052" ----> "[date] [keywords] [faces] [location] [camera]"
+To rename photos with useful filenames 
+
+Filename: "IMG0052" ----> **"[date] [keywords] [faces] [location] [camera] [Filename]"**
 
 For example:
 
 ![Abbey Road](https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg)
 
-"IMG-0052" ----> "220269_albumcoverart_john_paul_george_ringo_abbeyroad_NikonF2"
+"IMG0052" ----> **"220269_albumcoverart_john_paul_george_ringo_abbeyroad_NikonF2_IMG0052"**
 
 # Programming Language
 1. Python
