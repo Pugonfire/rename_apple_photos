@@ -6,7 +6,7 @@ Backing up Apple's Photos Library is suboptimal. At the moment, the only way to 
 
 # The Dream
 
-Filename: "IMG-0052" ----> "<date> <keywords> <faces> <location> <camera>"
+Filename: "IMG-0052" ----> "[date] <keywords> <faces> <location> <camera>"
 
 For example:
 
