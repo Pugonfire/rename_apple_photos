@@ -10,7 +10,7 @@ Filename: "IMG-0052" ----> "[date] [keywords] [faces] [location] [camera]"
 
 For example:
 
-![Abbey Road](https://en.wikipedia.org/wiki/Abbey_Road#/media/File:Beatles_-_Abbey_Road.jpg)
+![Abbey Road](https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg)
 
 "IMG-0052" ----> "220269_albumcoverart_john_paul_george_ringo_abbeyroad_NikonF2"
 
