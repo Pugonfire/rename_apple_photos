@@ -6,9 +6,11 @@ Backing up Apple's Photos Library is suboptimal. At the moment, the only way to 
 
 # The Dream
 
-Filename: "IMG-0052" ----> "[date] <keywords> <faces> <location> <camera>"
+Filename: "IMG-0052" ----> "[date] [keywords] [faces] [location] [camera]"
 
 For example:
+
+![GitHub Logo](/downloads/Beatles.jpg)
 
 "IMG-0052" ----> "220269_albumcoverart_john_paul_george_ringo_abbeyroad_NikonF2"
 
